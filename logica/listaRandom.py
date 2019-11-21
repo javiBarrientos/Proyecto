@@ -1,14 +1,15 @@
+from ..accesoDatos.importXml import nombresCanciones
 from random import random
-from ../accesoDatos/diccionario import x
 
+assert isinstance(listaNombreCanciones, dict)
 
 playlist = []
 
 
-def listaRandom(canciones):
+def listaRandom():
     i = 0
     while i < 50:
-        cancion = random.choice(libreria.keys())
+        cancion = random.choice(listaNombreCanciones.keys())
         if cancion not in playlist:
             playlist.append(cancion)
             i = i+1
