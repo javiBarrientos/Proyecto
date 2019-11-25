@@ -15,7 +15,8 @@ def parsearXml():
 
             diccionario[nombreCancion] = idCancion
 
-            diccionario = {x.strip(): y for x, y in diccionario.items()}
+            diccionario = {key.strip(): value for key,
+                           value in diccionario.items()}
 
     assert isinstance(diccionario, dict)
 
