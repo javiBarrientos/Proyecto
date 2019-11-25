@@ -2,8 +2,7 @@ import xml.etree.ElementTree as ET
 
 
 def parsearXml():
-    tree = ET.parse(
-        'C:/Users/Javi/Desktop/proyecto/ficherosProyecto/xmlSecundario.xml')
+    tree = ET.parse('xmlSecundario.xml')
     root = tree.getroot()
 
     diccionario = {}
