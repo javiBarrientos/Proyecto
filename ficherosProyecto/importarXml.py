@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 
 def parsearXml():
     tree = ET.parse(
-        'C:/Users/Javi/Desktop/proyecto/accesoDatos/xmlSecundario.xml')
+        'C:/Users/Javi/Desktop/proyecto/ficherosProyecto/xmlSecundario.xml')
     root = tree.getroot()
 
     diccionario = {}
@@ -15,11 +15,8 @@ def parsearXml():
 
             diccionario[nombreCancion] = idCancion
 
-            diccionario = {x.translate(
-                {32: None}).strip(): y for x, y in diccionario.items()}
+            diccionario = {x.strip(): y for x, y in diccionario.items()}
 
     assert isinstance(diccionario, dict)
+
     return diccionario
-
-
-print(parsearXml())
