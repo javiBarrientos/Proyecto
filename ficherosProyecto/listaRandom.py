@@ -1,19 +1,14 @@
-from importXml import parsearXml
+from importarXml import parsearXml
 from random import random
+import logging
 
 assert isinstance(parsearXml, dict)
 
-playlist = []
+
+def lista():
+    s = list(range(1, 50))
+    random.shuffle(s)
+    return s
 
 
-def listaRandom():
-    i = 0
-    while i < 50:
-        cancion = random.choice(parsearXml.keys())
-        if cancion not in playlist:
-            playlist.append(cancion)
-            i = i+1
-    return playlist
-
-
-print(listaRandom())
+print(lista())
