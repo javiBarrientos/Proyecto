@@ -1,8 +1,5 @@
 from importarXml import parsearXml
-from random import random
-import logging
-
-assert isinstance(parsearXml, dict)
+import random
 
 
 def lista():
