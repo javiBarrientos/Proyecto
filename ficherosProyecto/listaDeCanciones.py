@@ -1,10 +1,9 @@
 from importarXml import parsearXml
 import random
 
-diccionario = parsearXml()
-
 
 def listaDeCanciones():
+    diccionario = parsearXml()
     i = 0
     lista = []
     while i < len(diccionario):
