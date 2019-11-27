@@ -1,10 +1,11 @@
 import os
 import subprocess
+from proyectoVLC import rutaVLC, rutaListaMusica
 
 # canciones tiene que ser la lista aleatoria
-canciones = 'musica'
+canciones = rutaListaMusica()
 
 # comprobar otro path para program files x86
-vlcPath = ('C:/Program Files/VideoLAN/VLC/vlc.exe')
+vlc = rutaVLC()
 
-subprocess.Popen([vlcPath, canciones])
+subprocess.Popen([vlc, canciones])
