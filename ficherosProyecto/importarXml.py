@@ -2,13 +2,13 @@ import xml.etree.ElementTree as ET
 
 
 def parsearXml():
-    tree = ET.parse('libreriasXml/xmlSecundario.xml')
+    tree = ET.parse('libreriasXml/musicaProyecto.xml')
     root = tree.getroot()
 
     diccionario = {}
 
     for tracks in root:
-        for track in tracks:
+        for track in tracks.findall('track'):
             nombreCancion = track.find('name').text
             idCancion = track.get('id')
 
@@ -20,3 +20,6 @@ def parsearXml():
     assert isinstance(diccionario, dict)
 
     return diccionario
+
+
+print(parsearXml())
