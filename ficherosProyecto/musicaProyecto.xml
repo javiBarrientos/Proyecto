@@ -503,6 +503,171 @@
         </album>
         <album id="8">
             <name>
+                American Idiot
+            </name>
+            <artist>
+                10
+            </artist>
+            <creationYear>
+                2003
+            </creationYear>
+        </album>
+        <album id="9">
+            <name>
+                Back in Black
+            </name>
+            <artist>
+                18
+            </artist>
+            <creationYear>
+                1980
+            </creationYear>
+        </album>
+        <album id="10">
+            <name>
+                Dookie
+            </name>
+            <artist>
+                10
+            </artist>
+            <creationYear>
+                1994
+            </creationYear>
+        </album>
+        <album id="11">
+            <name>
+                El Turista
+            </name>
+            <artist>
+                7
+            </artist>
+            <creationYear>
+                2012
+            </creationYear>
+        </album>
+        <album id="12">
+            <name>
+                Callaita
+            </name>
+            <artist>
+                21
+            </artist>
+            <creationYear>
+                2019
+            </creationYear>
+        </album>
+        <album id="13">
+            <name>
+                Nibiru
+            </name>
+            <artist>
+                17
+            </artist>
+            <creationYear>
+                2019
+            </creationYear>
+        </album>
+        <album id="14">
+            <name>
+                Con Calma
+            </name>
+            <artist>
+                14
+            </artist>
+            <creationYear>
+                2019
+            </creationYear>
+        </album>
+        <album id="15">
+            <name>
+                The Last Don
+            </name>
+            <artist>
+                15
+            </artist>
+            <creationYear>
+                2003
+            </creationYear>
+        </album>
+        <album id="16">
+            <name>
+               Meet the Orphans 
+            </name>
+            <artist>
+                15
+            </artist>
+            <creationYear>
+                2010
+            </creationYear>
+        </album>
+        <album id="17">
+            <name>
+                Dracukeo
+            </name>
+            <artist>
+                22
+            </artist>
+            <creationYear>
+                2018
+            </creationYear>
+        </album>
+        <album id="18">
+            <name>
+                Cara y Cruz
+            </name>
+            <artist>
+                11
+            </artist>
+            <creationYear>
+                2018
+            </creationYear>
+        </album>
+        <album id="19">
+            <name>
+               Get The Strap 
+            </name>
+            <artist>
+                20
+            </artist>
+            <creationYear>
+                2018
+            </creationYear>
+        </album>
+        <album id="20">
+            <name>
+               The Works 
+            </name>
+            <artist>
+                19
+            </artist>
+            <creationYear>
+                1984
+            </creationYear>
+        </album>
+        <album id="21">
+            <name>
+                
+            </name>
+            <artist>
+                
+            </artist>
+            <creationYear>
+                
+            </creationYear>
+        </album>
+        <album id="22">
+            <name>
+                
+            </name>
+            <artist>
+                
+            </artist>
+            <creationYear>
+                
+            </creationYear>
+        </album>
+        <album id="23">
+            <name>
                 
             </name>
             <artist>
@@ -514,10 +679,9 @@
         </album>
     </albums>
     <tracks>
-        <tracks>
         <track id="1">
             <name>
-                El aire de la calle
+                El aire de la calle.mp3
             </name>
             <album>
                 1
@@ -531,7 +695,7 @@
         </track>
         <track id="2">
             <name>
-                La primavera trompetera
+                La primavera trompetera.mp3
             </name>
             <album>
                 2
@@ -545,7 +709,7 @@
         </track>
         <track id="3">
             <name>
-                La quiero a morir
+                La quiero a morir.mp3
             </name>
             <album>
                 3
@@ -559,7 +723,7 @@
         </track>
         <track id="4">
             <name>
-                Un ramito de violetas
+                Un ramito de violetas.mp3
             </name>
             <album>
                 3
@@ -573,7 +737,7 @@
         </track>
         <track id="5">
             <name>
-                Malamente
+                Malamente.mp3
             </name>
             <album>
                 4
@@ -587,7 +751,7 @@
         </track>
         <track id="6">
             <name>
-                Del sur a Cataluña
+                Del sur a Cataluña.mp3
             </name>
             <album>
                 5
@@ -601,7 +765,7 @@
         </track>
         <track id="7">
             <name>
-                Libre soy
+                Libre soy.mp3
             </name>
             <album>
                 6
@@ -615,7 +779,7 @@
         </track>
         <track id="8">
             <name>
-                Death is not defeat
+                Death is not defeat.m4a
             </name>
             <album>
                 7
@@ -629,661 +793,590 @@
         </track>
         <track id="9">
             <name>
-                Doomsday
+                Doomsday.m4a
             </name>
             <album>
                 7
             </album>
             <duration>
-                
+                5.01
             </duration>
             <mediaType>
-                
+                2
             </mediaType>
         </track>
         <track id="10">
             <name>
-                
+                American Idiot.mp3
             </name>
             <album>
-                
+                8
             </album>
             <duration>
-                
+                3.02
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="11">
             <name>
-                
+                Back in black.mp3
             </name>
             <album>
-                
+                9
             </album>
             <duration>
-                
+                4.14
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="12">
             <name>
-                
+                Basket case.mp3
             </name>
             <album>
-                
+                10
             </album>
             <duration>
-                
+                3.12
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="13">
             <name>
-                
+                Bicicletes.mp3
             </name>
             <album>
-                
+                11
             </album>
             <duration>
-                
+                3.04
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="14">
             <name>
-                
+                Callaita.mp3
             </name>
             <album>
-                
+                12
             </album>
             <duration>
-                
+                4.11
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="15">
             <name>
-                
+                Cambio.mp3
             </name>
             <album>
-                
+                13
             </album>
             <duration>
-                
+                6.13
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="16">
             <name>
-                
+                Con Calma.mp3
             </name>
             <album>
-                
+                14
             </album>
             <duration>
-                
+                3.30
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="17">
             <name>
-                
+                Dale Don Dale.mp3
             </name>
             <album>
-                
+                15
             </album>
             <duration>
-                
+                3.31
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="18">
             <name>
-                
+                Danza Kuduro.mp3
             </name>
             <album>
-                
+                16
             </album>
             <duration>
-                
+                3.56
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
-                <track id="19">
+        <track id="19">
             <name>
-                
+                Dracukeo.mp3
             </name>
             <album>
-                
+                17
             </album>
             <duration>
-                
+                2.36
             </duration>
             <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="20">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="21">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="22">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="23">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="24">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="25">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="26">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="28">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="29">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="30">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="31">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="32">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="33">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-    </tracks>
-        <track id="10">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="11">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="12">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="13">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="14">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="15">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="16">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="17">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-        <track id="18">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
-            </mediaType>
-        </track>
-                <track id="19">
-            <name>
-                
-            </name>
-            <album>
-                
-            </album>
-            <duration>
-                
-            </duration>
-            <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="20">
             <name>
-                
+                ESTILO TARAOTARANTINO.mp3
             </name>
             <album>
-                
+                18
             </album>
             <duration>
-                
+                2.34
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="21">
             <name>
-                
+                Get The Strap.mp3
             </name>
             <album>
-                
+                19
             </album>
             <duration>
-                
+                2.58
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="22">
             <name>
-                
+                Hells Bells.mp3
             </name>
             <album>
-                
+                9
             </album>
             <duration>
-                
+                5.11
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="23">
             <name>
-                
+                I Want To Break Free.mp3
             </name>
             <album>
-                
+                20
             </album>
             <duration>
-                
+                4.31
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="24">
             <name>
-                
+                killer Queen.mp3
             </name>
             <album>
-                
+                5
             </album>
             <duration>
-                
+                3.12
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="25">
             <name>
-                
+                kooda.mp3
             </name>
             <album>
-                
+                18
             </album>
             <duration>
-                
+                2.38
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="26">
             <name>
-                
+                LOLLYPOP.mp3
             </name>
             <album>
-                
+                4
             </album>
             <duration>
-                
+                2.37
             </duration>
             <mediaType>
-                
+                1
+            </mediaType>
+        </track>
+        <track id="27">
+            <name>
+                Mi Cama.mp3
+            </name>
+            <album>
+                22
+            </album>
+            <duration>
+                3.54
+            </duration>
+            <mediaType>
+                1
             </mediaType>
         </track>
         <track id="28">
             <name>
-                
+                Mundo De Piedra.mp3
             </name>
             <album>
-                
+                20
             </album>
             <duration>
-                
+                5.14
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="29">
             <name>
-                
+                Ni Bien Ni Mal
             </name>
             <album>
-                
+                6
             </album>
             <duration>
-                
+                5.06
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="30">
             <name>
-                
+                Pa amb Oli i Sal.mp3
             </name>
             <album>
-                
+                4
             </album>
             <duration>
-                
+                4.40
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="31">
             <name>
-                
+                Que Tire Pa Lante.mp3
             </name>
             <album>
-                
+                17
             </album>
             <duration>
-                
+                3.39
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="32">
             <name>
-                
+                Querer Querernos.mp3
             </name>
             <album>
-                
+                15
             </album>
             <duration>
-                
+                3.58
             </duration>
             <mediaType>
-                
+                1
             </mediaType>
         </track>
         <track id="33">
             <name>
-                
+                Quien.mp3
             </name>
             <album>
-                
+                6
             </album>
             <duration>
-                
+                4.07
             </duration>
             <mediaType>
-                
+                1
+            </mediaType>
+        </track>
+        <track id="34">
+            <name>
+                Recuerdame
+            </name>
+            <album>
+                1
+            </album>
+            <duration>
+                4.57
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="35">
+            <name>
+                REPROCHES.mp3
+            </name>
+            <album>
+                14
+            </album>
+            <duration>
+                4.33
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="36">
+            <name>
+                SAKALAKALASHNIKOV.mp3
+            </name>
+            <album>
+                11
+            </album>
+            <duration>
+                3.10
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="37">
+            <name>
+                Secreto.mp3
+            </name>
+            <album>
+                12
+            </album>
+            <duration>
+                4.17
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="38">
+            <name>
+                Siguieme y Te Sigo.mp3
+            </name>
+            <album>
+                2
+            </album>
+            <duration>
+                4.12
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="39">
+            <name>
+                Solamente Tu.mp3
+            </name>
+            <album>
+                17
+            </album>
+            <duration>
+                4.17
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="40">
+            <name>
+                Somebody To Love.mp3
+            </name>
+            <album>
+                14
+            </album>
+            <duration>
+                5.09
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="41">
+            <name>
+                SUPERSTARS.mp3
+            </name>
+            <album>
+                20
+            </album>
+            <duration>
+                3.48
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="42">
+            <name>
+                Taki Taki.mp3
+            </name>
+            <album>
+                7
+            </album>
+            <duration>
+                3.51
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="43">
+            <name>
+                They Don't Care About Us.mp3
+            </name>
+            <album>
+                6
+            </album>
+            <duration>
+                4.41
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="44">
+            <name>
+                Thriller.mp3
+            </name>
+            <album>
+                6
+            </album>
+            <duration>
+                13.42
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="45">
+            <name>
+                Throne.m4a
+            </name>
+            <album>
+                17
+            </album>
+            <duration>
+                3.09
+            </duration>
+            <mediaType>
+                2
+            </mediaType>
+        </track>
+        <track id="46">
+            <name>
+                Thunderstruck.mp3
+            </name>
+            <album>
+                3
+            </album>
+            <duration>
+                4.52
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="47">
+            <name>
+                True Friends.m4a
+            </name>
+            <album>
+                7
+            </album>
+            <duration>
+                3.52
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="48">
+            <name>
+                Venom.mp3
+            </name>
+            <album>
+                9
+            </album>
+            <duration>
+                4.55
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="49">
+            <name>
+                Yo x Ti, Tu x Mi.mp3
+            </name>
+            <album>
+                10
+            </album>
+            <duration>
+                4.59
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="50">
+            <name>
+                Without Me.mp3
+            </name>
+            <album>
+                4
+            </album>
+            <duration>
+                4.59
+            </duration>
+            <mediaType>
+                1
             </mediaType>
         </track>
     </tracks>
