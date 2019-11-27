@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<songs>
+    <tracks>
+        <track id="1">
+            <name>
+                El aire de la calle
+            </name>
+            <album>
+                1
+            </album>
+            <duration>
+                3.06
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="2">
+            <name>
+                La primavera trompetera
+            </name>
+            <album>
+                2
+            </album>
+            <duration>
+                3.53
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="3">
+            <name>
+                La quiero a morir
+            </name>
+            <album>
+                3
+            </album>
+            <duration>
+                4.20
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="4">
+            <name>
+                Un ramito de violetas
+            </name>
+            <album>
+                3
+            </album>
+            <duration>
+                4.28
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="5">
+            <name>
+                Malamente
+            </name>
+            <album>
+                4
+            </album>
+            <duration>
+                2.48
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="6">
+            <name>
+                Del sur a Cataluña
+            </name>
+            <album>
+                5
+            </album>
+            <duration>
+                4.16
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="7">
+            <name>
+                Libre soy
+            </name>
+            <album>
+                6
+            </album>
+            <duration>
+                4.01
+            </duration>
+            <mediaType>
+                1
+            </mediaType>
+        </track>
+        <track id="8">
+            <name>
+                Death is not defeat
+            </name>
+            <album>
+                7
+            </album>
+            <duration>
+                3.45
+            </duration>
+            <mediaType>
+                2
+            </mediaType>
+        </track>
+        <track id="9">
+            <name>
+                Doomsday
+            </name>
+            <album>
+                7
+            </album>
+            <duration>
+                5.01
+            </duration>
+            <mediaType>
+                2
+            </mediaType>
+        </track>
+    </tracks>
+</songs>
