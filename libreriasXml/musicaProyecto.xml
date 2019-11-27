@@ -644,39 +644,6 @@
                 1984
             </creationYear>
         </album>
-        <album id="21">
-            <name>
-                
-            </name>
-            <artist>
-                
-            </artist>
-            <creationYear>
-                
-            </creationYear>
-        </album>
-        <album id="22">
-            <name>
-                
-            </name>
-            <artist>
-                
-            </artist>
-            <creationYear>
-                
-            </creationYear>
-        </album>
-        <album id="23">
-            <name>
-                
-            </name>
-            <artist>
-                
-            </artist>
-            <creationYear>
-                
-            </creationYear>
-        </album>
     </albums>
     <tracks>
         <track id="1">
@@ -692,6 +659,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/El aire de la calle.mp3
+            </ruta>
         </track>
         <track id="2">
             <name>
@@ -706,6 +676,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/La primavera trompetera.mp3
+            </ruta>
         </track>
         <track id="3">
             <name>
@@ -720,6 +693,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/La quiero a morir.mp3
+            </ruta>
         </track>
         <track id="4">
             <name>
@@ -734,6 +710,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Un ramito de violetas.mp3
+            </ruta>
         </track>
         <track id="5">
             <name>
@@ -748,6 +727,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Malamente.mp3
+            </ruta>
         </track>
         <track id="6">
             <name>
@@ -762,6 +744,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Del sur a Cataluña.mp3
+            </ruta>
         </track>
         <track id="7">
             <name>
@@ -776,6 +761,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Libre soy.mp3
+            </ruta>
         </track>
         <track id="8">
             <name>
@@ -790,6 +778,9 @@
             <mediaType>
                 2
             </mediaType>
+            <ruta>
+                musica/Death is not defeat.m4a
+            </ruta>
         </track>
         <track id="9">
             <name>
@@ -804,6 +795,9 @@
             <mediaType>
                 2
             </mediaType>
+            <ruta>
+                musica/Doomsday.m4a
+            </ruta>
         </track>
         <track id="10">
             <name>
@@ -818,6 +812,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/American Idiot.mp3
+            </ruta>
         </track>
         <track id="11">
             <name>
@@ -832,6 +829,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Back in black.mp3
+            </ruta>
         </track>
         <track id="12">
             <name>
@@ -846,6 +846,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Basket case.mp3
+            </ruta>
         </track>
         <track id="13">
             <name>
@@ -860,6 +863,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Bicicletes.mp3
+            </ruta>
         </track>
         <track id="14">
             <name>
@@ -874,6 +880,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Callaita.mp3
+            </ruta>
         </track>
         <track id="15">
             <name>
@@ -888,6 +897,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Cambio.mp3
+            </ruta>
         </track>
         <track id="16">
             <name>
@@ -902,6 +914,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Con Calma.mp3
+            </ruta>
         </track>
         <track id="17">
             <name>
@@ -916,6 +931,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Dale Don Dale.mp3
+            </ruta>
         </track>
         <track id="18">
             <name>
@@ -930,6 +948,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Danza Kuduro.mp3
+            </ruta>
         </track>
         <track id="19">
             <name>
@@ -944,6 +965,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Dracukeo.mp3
+            </ruta>
         </track>
         <track id="20">
             <name>
@@ -958,6 +982,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/ESTILO TARAOTARANTINO.mp3
+            </ruta>
         </track>
         <track id="21">
             <name>
@@ -972,6 +999,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Get The Strap.mp3
+            </ruta>
         </track>
         <track id="22">
             <name>
@@ -986,6 +1016,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Hells Bells.mp3
+            </ruta>
         </track>
         <track id="23">
             <name>
@@ -1000,6 +1033,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/I Want To Break Free.mp3
+            </ruta>
         </track>
         <track id="24">
             <name>
@@ -1014,6 +1050,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/killer Queen.mp3
+            </ruta>
         </track>
         <track id="25">
             <name>
@@ -1028,6 +1067,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/kooda.mp3
+            </ruta>
         </track>
         <track id="26">
             <name>
@@ -1042,6 +1084,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/LOLLYPOP.mp3
+            </ruta>
         </track>
         <track id="27">
             <name>
@@ -1056,6 +1101,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Mi Cama.mp3
+            </ruta>
         </track>
         <track id="28">
             <name>
@@ -1070,10 +1118,13 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Mundo De Piedra.mp3
+            </ruta>
         </track>
         <track id="29">
             <name>
-                Ni Bien Ni Mal
+                Ni Bien Ni Mal.mp3
             </name>
             <album>
                 6
@@ -1084,6 +1135,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Ni Bien Ni Mal.mp3
+            </ruta>
         </track>
         <track id="30">
             <name>
@@ -1098,6 +1152,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Pa amb Oli i Sal.mp3
+            </ruta>
         </track>
         <track id="31">
             <name>
@@ -1112,6 +1169,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Que Tire Pa Lante.mp3
+            </ruta>
         </track>
         <track id="32">
             <name>
@@ -1126,6 +1186,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Querer Querernos.mp3
+            </ruta>
         </track>
         <track id="33">
             <name>
@@ -1140,10 +1203,13 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Quien.mp3
+            </ruta>
         </track>
         <track id="34">
             <name>
-                Recuerdame
+                Recuerdame.mp3
             </name>
             <album>
                 1
@@ -1154,6 +1220,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Recuerdame.mp3
+            </ruta>
         </track>
         <track id="35">
             <name>
@@ -1168,6 +1237,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/REPROCHES.mp3
+            </ruta>
         </track>
         <track id="36">
             <name>
@@ -1182,6 +1254,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/SAKALAKALASHNIKOV.mp3
+            </ruta>
         </track>
         <track id="37">
             <name>
@@ -1196,6 +1271,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Secreto.mp3
+            </ruta>
         </track>
         <track id="38">
             <name>
@@ -1210,6 +1288,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Siguieme y Te Sigo.mp3
+            </ruta>
         </track>
         <track id="39">
             <name>
@@ -1224,6 +1305,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Solamente Tu.mp3
+            </ruta>
         </track>
         <track id="40">
             <name>
@@ -1238,6 +1322,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Somebody To Love.mp3
+            </ruta>
         </track>
         <track id="41">
             <name>
@@ -1252,6 +1339,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                SUPERSTARS.mp3
+            </ruta>
         </track>
         <track id="42">
             <name>
@@ -1266,6 +1356,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                Taki Taki.mp3
+            </ruta>
         </track>
         <track id="43">
             <name>
@@ -1280,6 +1373,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/They Don't Care About Us.mp3
+            </ruta>
         </track>
         <track id="44">
             <name>
@@ -1294,6 +1390,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Thriller.mp3
+            </ruta>
         </track>
         <track id="45">
             <name>
@@ -1308,6 +1407,9 @@
             <mediaType>
                 2
             </mediaType>
+            <ruta>
+                musica/Throne.m4a
+            </ruta>
         </track>
         <track id="46">
             <name>
@@ -1322,6 +1424,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Thunderstruck.mp3
+            </ruta>
         </track>
         <track id="47">
             <name>
@@ -1336,6 +1441,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/True Friends.m4a
+            </ruta>
         </track>
         <track id="48">
             <name>
@@ -1350,6 +1458,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Venom.mp3
+            </ruta>
         </track>
         <track id="49">
             <name>
@@ -1364,6 +1475,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Yo x Ti, Tu x Mi.mp3
+            </ruta>
         </track>
         <track id="50">
             <name>
@@ -1378,6 +1492,9 @@
             <mediaType>
                 1
             </mediaType>
+            <ruta>
+                musica/Without Me.mp3
+            </ruta>
         </track>
     </tracks>
     <genres>
