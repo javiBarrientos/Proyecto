@@ -1,8 +1,8 @@
 import xml.etree.ElementTree as ET
 
 
-def parsearXml():
-    tree = ET.parse('libreriasXml/musicaProyecto.xml')
+def parsearXml(rutaXml):
+    tree = ET.parse(rutaXml)
     root = tree.getroot()
 
     diccionario = {}
@@ -20,6 +20,3 @@ def parsearXml():
     assert isinstance(diccionario, dict)
 
     return diccionario
-
-
-print(parsearXml())
