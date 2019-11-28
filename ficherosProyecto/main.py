@@ -4,7 +4,7 @@ from listaDeCanciones import listaDeCanciones
 
 def main():
     rutaXml = 'libreriasXml/musicaProyecto.xml'
-    data = parsearXml(rutaVlc)
+    data = parsearXml(rutaXml)
     cancionesAleatorias = listaDeCanciones(data)
     print(cancionesAleatorias)
 
