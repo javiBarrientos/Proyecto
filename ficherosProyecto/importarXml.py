@@ -9,7 +9,7 @@ def parsearXml(rutaXml):
 
     for tracks in root:
         for track in tracks.findall('track'):
-            nombreCancion = track.find('name').text
+            nombreCancion = track.find('ruta').text
             idCancion = track.get('id')
 
             diccionario[nombreCancion] = idCancion
