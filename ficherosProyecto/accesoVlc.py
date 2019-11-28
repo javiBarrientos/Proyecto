@@ -1,5 +1,7 @@
 import subprocess
+import shlex
 
 
 def accederVlc(ruta, lista):
-    subprocess.Popen([ruta, lista])
+    abrirVlc = shlex.split(ruta, lista)
+    subprocess.Popen(abrirVlc)
