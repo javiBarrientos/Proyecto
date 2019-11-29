@@ -7,15 +7,12 @@ def parsearXml(rutaXml):
 
     diccionario = {}
 
-    for tracks in root:
+    for tracks in root.findall('ruta'):
+        nombreCancion = tracks.findtext
         for track in tracks.findall('track'):
-            nombreCancion = track.find('ruta').text
             idCancion = track.get('id')
 
             diccionario[nombreCancion] = idCancion
-
-            diccionario = {key.strip(): value for key,
-                           value in diccionario.items()}
 
     assert isinstance(diccionario, dict)
 
