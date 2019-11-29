@@ -1,5 +1,5 @@
-import subprocess
+import os
 
 
-def accederVlc(ruta, lista):
-    subprocess.Popen([ruta, lista])
+def accederVlc(rutaVlc, lista):
+    return os.popen(rutaVlc + " " + lista)
