@@ -11,7 +11,9 @@ def listaDeCanciones(diccionario):
             cancion = random.choice(list(diccionario.keys()))
 
             if cancion not in lista:
-                lista.append(cancion)
+                comillas = '\"'
+                cancionComillas = comillas + cancion + comillas
+                lista.append(cancionComillas)
                 contador += 1
 
     listaToString = ' '.join(lista)
