@@ -5,10 +5,11 @@ from accesoVlc import accederVlc
 
 def main():
     rutaXml = 'libreriasXml/musicaProyecto.xml'
-    rutaVlc = 'C:/Program Files/VideoLAN/VLC/vlc.exe'
+    rutaVlc = '"C:/Program Files/VideoLAN/VLC/vlc.exe"'
     data = parsearXml(rutaXml)
     cancionesAleatorias = listaDeCanciones(data)
     accesoVlc = accederVlc(rutaVlc, cancionesAleatorias)
 
 
-main()
+if __name__ == "__main__":
+    main()
