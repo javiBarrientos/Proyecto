@@ -9,10 +9,10 @@ def listaDeCanciones(diccionario):
 
         for cancion in diccionario:
             cancion = random.choice(list(diccionario.keys()))
+            comillas = '\"'
+            cancionComillas = comillas + cancion + comillas
 
-            if cancion not in lista:
-                comillas = '\"'
-                cancionComillas = comillas + cancion + comillas
+            if cancionComillas not in lista:
                 lista.append(cancionComillas)
                 contador += 1
 
