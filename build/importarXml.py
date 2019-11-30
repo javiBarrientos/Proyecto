@@ -4,8 +4,9 @@ import xml.etree.ElementTree as ET
 def parsearXml(rutaXml):
     try:
         open(rutaXml)
-    except FileNotFoundError:
-        print('Este fichero no existe')
+    except OSError:
+        print('Este fichero ' + rutaXml + ' no existe')
+        exit()
     else:
         pass
 
