@@ -1,4 +1,4 @@
 .pytest_cache
 .vscode
-ficherosProyecto/__pycache__
+__pycache__
 musica
