@@ -19,5 +19,12 @@ def listaDeCanciones(diccionario):
                 lista.append(cancionComillas)
                 contador += 1
 
+    assert lista != []
+
+    assert len(lista) == len(diccionario)
+
     listaToString = ' '.join(lista)
+
+    assert lista != ""
+
     return listaToString
