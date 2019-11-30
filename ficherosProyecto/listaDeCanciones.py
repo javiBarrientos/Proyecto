@@ -2,6 +2,9 @@ import random
 
 
 def listaDeCanciones(diccionario):
+
+    assert isinstance(diccionario, dict)
+
     contador = 0
     lista = []
 
