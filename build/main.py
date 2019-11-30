@@ -4,7 +4,7 @@ from accesoVlc import accederVlc
 
 
 def main():
-    rutaXml = 'libreriasXml/musicaProyecto.xml'
+    rutaXml = 'src/musicaProyecto.xml'
     rutaVlc = '"C:/Program Files/VideoLAN/VLC/vlc.exe"'
     data = parsearXml(rutaXml)
     cancionesAleatorias = listaDeCanciones(data)
