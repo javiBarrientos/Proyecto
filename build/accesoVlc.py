@@ -9,4 +9,7 @@ def accederVlc(rutaVlc, lista):
     else:
         pass
 
+    assert isinstance(rutaVlc, str)
+    assert isinstance(lista, str)
+
     return os.popen(rutaVlc + " " + lista)
