@@ -1,5 +1,7 @@
 import os
 
+# Este try except comprueba que la ruta que tenemos de vlc existe, antes de operar con el
+
 
 def accederVlc(rutaVlc, lista):
     try:
