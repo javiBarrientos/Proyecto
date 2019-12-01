@@ -6,7 +6,7 @@ Esta practica es un proyecto transversal del curso de Programación Web Dual del
 
 Construir un programa que genere una lista de reproducción aleatoria (50 canciones como mínimo) de las canciones que tienes en tu biblioteca de canciones de tu máquina. El script llama a VLC una vez que la lista esta creada y la música empieza a sonar en tu pc.
 
-## Proceso
+## Que hemos hecho
 
 En este proyecto hemos usado la metodologia en casacada, decidimos utiliar esta metodologia porque nos parecia la mas idonea ya que fuimos haciendo modulo por modulo comprobando que la salida que obteniamos era la esperada y como ultimo los juntamos todos en uno.
 
