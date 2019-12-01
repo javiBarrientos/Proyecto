@@ -8,7 +8,7 @@ def main():
     rutaVlc = '"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"'
     data = parsearXml(rutaXml)
     cancionesAleatorias = listaDeCanciones(data)
-    accesoVlc = accederVlc(rutaVlc, cancionesAleatorias)
+    accederVlc(rutaVlc, cancionesAleatorias)
 
 
 if __name__ == "__main__":
