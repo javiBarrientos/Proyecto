@@ -1,5 +1,7 @@
 import xml.etree.ElementTree as ET
 
+# Antes de empezar a parsear el xml hacemos un try except para comprobar que ese xml existe
+
 
 def parsearXml(rutaXml):
     try:
