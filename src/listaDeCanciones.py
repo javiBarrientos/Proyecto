@@ -1,9 +1,9 @@
 import random
 
-# En esta parte del codigo vamos a generar una lista de canciones aleatoria y despues lo pasaremos a string utilizando un join
 
+def cancionesRandom(diccionario):
 
-def listaDeCanciones(diccionario):
+    # Assert para comprobar que el diccionario es un diccionario
 
     assert isinstance(diccionario, dict)
 
@@ -20,11 +20,17 @@ def listaDeCanciones(diccionario):
             lista.append(cancionComillas)
             contador += 1
 
+# Aqui he creado dos assert:
+# Uno que comprueba que la lista no esta vacia
+# Y este compurba que la longituda de la lista es igual a la del diccionario
+
     assert lista != []
 
     assert len(lista) == len(diccionario)
 
     listaToString = ' '.join(lista)
+
+# Como ultimo assert que el string no este vacio
 
     assert lista != ""
 
