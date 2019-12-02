@@ -1,9 +1,10 @@
 import os
 
-# Este try except comprueba que la ruta que tenemos de vlc existe, antes de operar con el
 
+def accederVlc(rutaVlc, cancionesAleatorias):
 
-def accederVlc(rutaVlc, lista):
+    # He creado esta barricada para comprobar que la ruta del vlc es correcta
+
     try:
         exec(rutaVlc)
     except OSError:
@@ -11,7 +12,9 @@ def accederVlc(rutaVlc, lista):
     else:
         pass
 
-    assert isinstance(rutaVlc, str)
-    assert isinstance(lista, str)
+# Tambien he creado estos assert para comprobar que las dos rutas son string
 
-    return os.popen(rutaVlc + " " + lista)
+    assert isinstance(rutaVlc, str)
+    assert isinstance(cancionesAleatorias, str)
+
+    return os.popen(rutaVlc + " " + cancionesAleatorias)
