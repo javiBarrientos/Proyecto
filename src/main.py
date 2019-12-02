@@ -1,5 +1,5 @@
 from importarXml import parsearXml
-from listaDeCanciones import cancionesRandom
+from stringDeCanciones import cancionesRandom
 from accesoVlc import accederVlc
 
 
