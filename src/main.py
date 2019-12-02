@@ -1,13 +1,13 @@
 from importarXml import parsearXml
-from listaDeCanciones import listaDeCanciones
+from listaDeCanciones import cancionesRandom
 from accesoVlc import accederVlc
 
 
 def main():
     rutaXml = 'C:\\Users\\Javi\\Desktop\\proyecto\\lib\\musicaProyecto.xml'
     rutaVlc = '"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"'
-    data = parsearXml(rutaXml)
-    cancionesAleatorias = listaDeCanciones(data)
+    diccionario = parsearXml(rutaXml)
+    cancionesAleatorias = cancionesRandom(diccionario)
     accederVlc(rutaVlc, cancionesAleatorias)
 
 
