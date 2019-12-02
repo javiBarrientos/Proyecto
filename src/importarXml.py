@@ -1,9 +1,10 @@
 import xml.etree.ElementTree as ET
 
-# Antes de empezar a parsear el xml hacemos un try except para comprobar que ese xml existe
-
 
 def parsearXml(rutaXml):
+
+    # Barricada para comprobar que el xml existe
+
     try:
         open(rutaXml)
     except FileNotFoundError:
@@ -22,6 +23,12 @@ def parsearXml(rutaXml):
         idCancion = tracks.get('id')
 
         diccionario[nombreCancion] = idCancion
+
+# Assert para comprobar que la longitud del diccionario sea 50
+
+    assert len(diccionario) == 50
+
+# Assert para comprobar que el diccionario no esta vacio
 
     assert diccionario != {}
 
